@@ -1,0 +1,35 @@
+{
+    "name": "codewithdoni",
+    "short_name": "codewithdoni",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Flutter Developer Portfolio is a sleek and dynamic mobile application designed to showcase the expertise and projects of Flutter developers. With its intuitive user interface and powerful features, this app serves as a comprehensive platform for developers to highlight their skills, experience, and achievements in the Flutter ecosystem.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/coding_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/coding_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/coding_192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/coding_512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
